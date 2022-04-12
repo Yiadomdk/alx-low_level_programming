@@ -1,7 +1,8 @@
 #include <unistd.h>
+
 /**
- * main - Function begins
- * Return - Function ends
+ * main - Print with wite function
+ * Return: Function ends
  */
 int main(void)
 {
