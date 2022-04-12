@@ -3,8 +3,8 @@
 /**
  * main - entry point
  *
- *    * Description: Print all possible different combinations of two digits
- *     * Return: 0
+ * Description: Print all possible different combinations of two digits
+ * Return: 0
  */
 
 int main(void)
@@ -23,7 +23,7 @@ int main(void)
 	putchar('0' + j);
 	putchar('0' + k);
 
-	if (i != 7 || j != 8 || k != 9)			
+	if (i != 7 || j != 8 || k != 9)
 	{
 	putchar(',');
 	putchar(' ');
