@@ -1,9 +1,10 @@
 #include "main.h"
+#include <stdio.h>
 /**
- *_strcmp - This is the fucnction for performing the comparison
- *@s1: This the first string
- *@s2: This is the second comparison
- *Return: void
+ * _strcmp - This is the fucnction for performing the comparison
+ * @s1: This the first string
+ * @s2: This is the second comparison
+ * Return: void
  */
 int _strcmp(char *s1, char *s2)
 {
