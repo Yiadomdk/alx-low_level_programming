@@ -5,7 +5,7 @@
  *Return: void
  */
 char *cap_string(char *s)
-{ 
+{
 int index = 0;
 
 while (s[index])
